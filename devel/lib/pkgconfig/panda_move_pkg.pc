@@ -1,0 +1,8 @@
+prefix=/home/arclab/Desktop/kw_v3.0_ws/devel
+
+Name: panda_move_pkg
+Description: Description of panda_move_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

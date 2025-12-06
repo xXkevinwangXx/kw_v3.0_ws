@@ -1,0 +1,2 @@
+panda_move_pkg
+-DCATKIN_DEVEL_PREFIX=/home/arclab/Desktop/kw_v3.0_ws/devel -DCMAKE_INSTALL_PREFIX=/home/arclab/Desktop/kw_v3.0_ws/install -G Unix Makefiles
